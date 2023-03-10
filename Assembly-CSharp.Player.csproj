@@ -91,6 +91,7 @@
     <Compile Include="Assets\Asset Store\Crash\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl4Axis.cs" />
     <Compile Include="Assets\Asset Store\Crash\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
     <Compile Include="Assets\Asset Store\Crash\SampleScenes\Scripts\CameraSwitch.cs" />
+    <Compile Include="Assets\Scripts\CinematicTrigger.cs" />
     <Compile Include="Assets\Asset Store\Crash\Standard Assets\Utility\CurveControlledBob.cs" />
     <Compile Include="Assets\Asset Store\Crash\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Asset Store\Crash\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
@@ -159,7 +160,6 @@
     <Compile Include="Assets\Asset Store\Crash\Standard Assets\Characters\RollerBall\Scripts\BallUserControl.cs" />
     <Compile Include="Assets\Asset Store\Crash\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
     <Compile Include="Assets\Asset Store\Crash\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
-    <Compile Include="Assets\Scripts\CinematicTrigger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Asset Store\Crash\SampleScenes\Shaders\Skybox-Procedural.shader" />
