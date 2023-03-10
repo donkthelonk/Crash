@@ -645,6 +645,10 @@
       <Project>{8CD43BA2-CDA6-FEF0-6F92-0E4BB28C7DA8}</Project>
       <Name>Assembly-CSharp-firstpass.Player</Name>
     </ProjectReference>
+    <ProjectReference Include="Cinemachine.Player.csproj">
+      <Project>{B343800E-997E-C009-DAF9-11B44D5DC2AA}</Project>
+      <Name>Cinemachine.Player</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Player.csproj">
       <Project>{6412AE69-3EF4-3CF3-63E1-927C1DB73967}</Project>
       <Name>Unity.Timeline.Player</Name>
@@ -668,10 +672,6 @@
     <ProjectReference Include="Unity.VisualScripting.Core.Player.csproj">
       <Project>{7DD16549-3AB1-B6AD-64B8-E6E4170DE483}</Project>
       <Name>Unity.VisualScripting.Core.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Cinemachine.Player.csproj">
-      <Project>{B343800E-997E-C009-DAF9-11B44D5DC2AA}</Project>
-      <Name>Cinemachine.Player</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
