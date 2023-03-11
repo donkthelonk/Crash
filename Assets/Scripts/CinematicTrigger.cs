@@ -12,10 +12,10 @@ public class CinematicTrigger : MonoBehaviour
     {
         //Debug.Log("Trigger");
 
-        // disable fps controller
+        // Disable FPS Controller
         fpsController.SetActive(false);
 
-        // enable cutscene object and cinematic camera
+        // Enable Cutscene object and CinematicCamera
         cinematicCamera.SetActive(true);
         cutscene.SetActive(true);
     }
