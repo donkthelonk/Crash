@@ -11877,10 +11877,16 @@ PlayableDirector:
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings:
-  - key: {fileID: 6786064092476054906, guid: 7fe5b20e15f06be4994dc3719517778c, type: 2}
+  - key: {fileID: 0}
     value: {fileID: 0}
+  - key: {fileID: -7138659918340105758, guid: 7fe5b20e15f06be4994dc3719517778c, type: 2}
+    value: {fileID: 558516848}
+  - key: {fileID: -3693871572682963162, guid: 7fe5b20e15f06be4994dc3719517778c, type: 2}
+    value: {fileID: 149326763}
   m_ExposedReferences:
-    m_References: []
+    m_References:
+    - 714c70099eb7e134eb56231ae5802cc9: {fileID: 149326764}
+    - 8f33b78f9abcd8a49aaa9c14f5fc4315: {fileID: 149326764}
 --- !u!4 &877703538
 Transform:
   m_ObjectHideFlags: 0
